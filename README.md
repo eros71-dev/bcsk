@@ -10,6 +10,8 @@ It builds the following executable and its required assets:
 This repo does include all assets necessary for compiling the game.
 A prior copy of the game is **NOT** required to extract the assets.
 
+AssetRipper was used for the decompilation of this project, and the required Unity plugins/addons/whatever have been installed in order for the game to work.
+
 ## Installation
 
 Clone the repo to wherever and load it with Unity 2020.3.40f1.
